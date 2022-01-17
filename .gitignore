@@ -28,3 +28,7 @@ hs_err_pid*
 # local
 test.java
 tmp.java
+
+# json
+leetcode/editor/cn/all.json
+leetcode/editor/cn/translation.json
